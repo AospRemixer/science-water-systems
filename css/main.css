@@ -3,3 +3,12 @@
   margin: 0;
   font-family: sans-serif;
 }
+::-moz-selection { 
+background-color: #800080; 
+color: #ffffff;
+}
+
+::selection {
+background-color: #800080; 
+color: #ffffff;
+}
